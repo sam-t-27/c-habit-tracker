@@ -1,5 +1,3 @@
-README I gave you in Step 1.
-
 # C Habit Tracker
 
 A simple command-line Habit Tracker built using the C programming language.
